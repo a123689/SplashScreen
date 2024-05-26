@@ -5,9 +5,8 @@ build.gradle
 
 android {
    compileSdkVersion 31
-   ...
 }
+
 dependencies {
-   ...
    implementation 'androidx.core:core-splashscreen:1.0.0-beta02'
 }
